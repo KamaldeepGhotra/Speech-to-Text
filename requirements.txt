@@ -1,0 +1,4 @@
+pvrecorder
+whisper
+pvfalcon
+flask
